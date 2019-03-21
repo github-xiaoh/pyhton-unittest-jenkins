@@ -50,8 +50,8 @@ password_email = 'btsfupcotihybhhj'       # 发件人邮箱密码
 
 # 收件人邮箱
 # 多个接收邮箱，单个收件人的话，直接是receiver='XXX@126.com'
-# receiver_email = ['shaomingbo@smartcinema', 'chenhang@smartcinema.com.cn']
-receiver_email = 'chenhang@smartcinema.com.cn'
+receiver_email = ['shaomingbo@smartcinema', 'chenhang@smartcinema.com.cn']
+# receiver_email = 'chenhang@smartcinema.com.cn'
 # receiver_email = 'shaomingbo@smartcinema.com.cn'
 # receiver_email = '1779505264@qq.com'
 

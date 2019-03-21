@@ -55,12 +55,12 @@ def mail(user_email,sender_email,password_email,receiver_email,reportHtml):
 
 
         msg['From'] = formataddr([user_email, sender_email])  # 括号里的对应发件人邮箱昵称、发件人邮箱账号
-        msg['To'] = formataddr(["云途时代测试", receiver_email])  # 括号里的对应收件人邮箱昵称、收件人邮箱账号
+        # msg['To'] = formataddr(["云途时代测试", receiver_email])  # 括号里的对应收件人邮箱昵称、收件人邮箱账号
 
-        # # 多个收件人
-        # msg['To'] = ";".join(receiver_email)
-        # msg['Subject'] = Header("接口测试报告", 'utf-8')   # 邮件的主题，也可以说是标题
-        msg['Subject'] = "接口测试报告"  # 邮件的主题，也可以说是标题
+        # 多个收件人
+        msg['To'] = ";".join(receiver_email)
+        msg['Subject'] = Header("接口测试报告", 'utf-8')   # 邮件的主题，也可以说是标题
+        # msg['Subject'] = "接口测试报告"  # 邮件的主题，也可以说是标题
 
 
         server = smtplib.SMTP_SSL("smtp.qq.com", 465)  # 发件人邮箱中的SMTP服务器，端口是25
