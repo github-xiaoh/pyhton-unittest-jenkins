@@ -1,0 +1,10 @@
+2019-04-04 14:31:51,279 - logfile.py - logger - INFO - info message
+2019-04-04 14:31:51,279 - logfile.py - logger - ERROR - error message
+2019-04-04 14:31:53,557 - logfile.py - logger - INFO - info message
+2019-04-04 14:31:53,558 - logfile.py - logger - ERROR - error message
+2019-04-04 14:33:16,528 - logfile.py - logger - INFO - info message
+2019-04-04 14:33:16,529 - logfile.py - logger - ERROR - error message
+2019-04-04 14:33:22,477 - logfile.py - logger - INFO - info message
+2019-04-04 14:33:22,477 - logfile.py - logger - ERROR - error message
+2019-04-04 14:40:35,048 - logfile.py - logger - INFO - info message
+2019-04-04 14:40:35,049 - logfile.py - logger - ERROR - error message

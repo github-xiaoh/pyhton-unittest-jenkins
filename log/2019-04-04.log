@@ -1,0 +1,50 @@
+2019-04-04 14:45:53,623 - logfile.py - logger - INFO - info message
+2019-04-04 14:45:53,624 - logfile.py - logger - ERROR - error message
+2019-04-04 14:45:59,629 - logfile.py - logger - INFO - info message
+2019-04-04 14:45:59,629 - logfile.py - logger - ERROR - error message
+2019-04-04 14:46:02,405 - logfile.py - logger - INFO - info message
+2019-04-04 14:46:02,406 - logfile.py - logger - ERROR - error message
+2019-04-04 14:46:04,648 - logfile.py - logger - INFO - info message
+2019-04-04 14:46:04,648 - logfile.py - logger - ERROR - error message
+2019-04-04 14:46:06,637 - logfile.py - logger - INFO - info message
+2019-04-04 14:46:06,637 - logfile.py - logger - ERROR - error message
+2019-04-04 15:09:44,492 - logfile.py - logger - INFO - 输入不符合正整数或正小数
+2019-04-04 15:09:44,494 - logfile.py - logger - INFO - 输入不符合正整数或正小数
+2019-04-04 15:12:00,826 - logfile.py - logger - INFO - info message
+2019-04-04 15:15:21,178 - logfile.py - <module> - INFO - info message
+2019-04-04 15:15:36,231 - logfile.py - <module> - INFO - info message
+2019-04-04 15:17:52,721 - Triangle.py - compare - INFO - 输入不符合正整数或正小数
+2019-04-04 15:17:52,722 - Triangle.py - compare - INFO - 输入不符合正整数或正小数
+2019-04-04 15:17:52,722 - Triangle.py - compare - INFO - 输入不符合正整数或正小数
+2019-04-04 15:18:40,777 - Triangle.py - compare - INFO - 输入不符合正整数或正小数
+2019-04-04 15:18:40,778 - Triangle.py - compare - INFO - 输入不符合正整数或正小数
+2019-04-04 15:18:40,778 - Triangle.py - compare - INFO - 输入不符合正整数或正小数
+2019-04-04 15:18:40,779 - Triangle.py - compare - INFO - 输入不符合正整数或正小数
+2019-04-04 15:18:40,779 - Triangle.py - compare - INFO - 输入不符合正整数或正小数
+2019-04-04 15:18:40,779 - Triangle.py - compare - INFO - 输入不符合正整数或正小数
+2019-04-04 15:18:40,779 - Triangle.py - compare - INFO - 输入不符合正整数或正小数
+2019-04-04 15:18:40,779 - Triangle.py - compare - INFO - 输入不符合正整数或正小数
+2019-04-04 15:18:40,779 - Triangle.py - compare - INFO - 输入不符合正整数或正小数
+2019-04-04 15:18:40,779 - Triangle.py - compare - INFO - 输入不符合正整数或正小数
+2019-04-04 15:19:34,516 - Triangle.py - compare - INFO - 输入不符合正整数或正小数
+2019-04-04 15:19:34,516 - Triangle.py - compare - INFO - 输入不符合正整数或正小数
+2019-04-04 15:19:34,516 - Triangle.py - compare - INFO - 输入不符合正整数或正小数
+2019-04-04 15:21:53,461 - inputs.py - Triangle_output - INFO - 输入不符合正整数或正小数
+2019-04-04 15:24:31,145 - inputs.py - Triangle_output - INFO - 判断成功返回判断结果：普通三角形
+2019-04-04 15:24:49,006 - inputs.py - Triangle_output - INFO - 输入不符合正整数或正小数
+2019-04-04 15:24:58,212 - inputs.py - Triangle_output - INFO - 判断成功返回判断结果：普通三角形
+2019-04-04 15:25:54,188 - inputs.py - Triangle_output - INFO - 判断成功返回判断结果：非三角形
+2019-04-04 15:26:09,536 - inputs.py - Triangle_output - INFO - 输入不符合正整数或正小数
+2019-04-04 15:26:24,201 - inputs.py - Triangle_output - INFO - 判断成功返回判断结果：非三角形
+2019-04-04 15:31:53,691 - inputs.py - Triangle_output - INFO - 输入不符合正整数或正小数
+2019-04-04 15:31:53,692 - inputs.py - Triangle_output - INFO - 输入不符合正整数或正小数
+2019-04-04 15:31:53,692 - inputs.py - Triangle_output - INFO - 输入不符合正整数或正小数
+2019-04-04 15:31:53,692 - inputs.py - Triangle_output - INFO - 输入不符合正整数或正小数
+2019-04-04 15:31:53,692 - inputs.py - Triangle_output - INFO - 输入不符合正整数或正小数
+2019-04-04 15:31:53,692 - inputs.py - Triangle_output - INFO - 输入不符合正整数或正小数
+2019-04-04 15:32:55,548 - inputs.py - Triangle_output - INFO - 判断成功返回判断结果：等腰三角形
+2019-04-04 15:32:55,549 - inputs.py - Triangle_output - INFO - 判断成功返回判断结果：等腰三角形
+2019-04-04 15:32:55,549 - inputs.py - Triangle_output - INFO - 判断成功返回判断结果：等腰三角形
+2019-04-04 15:34:00,027 - inputs.py - Triangle_output - INFO - 判断成功返回判断结果：等腰三角形
+2019-04-04 15:34:09,475 - inputs.py - Triangle_output - INFO - 判断成功返回判断结果：直角三角形
+2019-04-04 15:34:40,097 - inputs.py - Triangle_output - INFO - 判断成功返回判断结果：等腰三角形

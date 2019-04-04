@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*-
 
+
 # 1、判断是否为三角形
 '''1、a>0 or b>0 or c>0  2、a+b>c and a+c>b and b+c>a'''
 # 2、判断是否为等腰三角形
@@ -7,7 +8,14 @@
 # 3、判断是否为等边三角形
 # 4、判断代码判断是否正确
 
+
 import re
+
+
+
+
+
+
 
 Triangles = "普通三角形"
 I_Triangles = "等腰三角形"
@@ -53,6 +61,8 @@ def Triangle_PK(a,b,c):
             return Triangle(a,b,c)
     else:
         return Triangle(a,b,c)
+
+
 
 
 def compare(x):
