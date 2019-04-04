@@ -1,5 +1,8 @@
 # -*- coding:utf-8 -*-
 
+
+import sys
+sys.path.append(r'/Users/chenhang/Desktop/pythonFile/python/untitled/practice/pyhton-unittest-jenkins/case')
 from case import Test_Triangle,Test_E_Triangle,Test_I_Triangle,Test_N_Triangle,Test_Error_data,Test_R_Triangle,Test_I_R_Triangle
 import unittest
 
